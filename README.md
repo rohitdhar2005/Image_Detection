@@ -32,8 +32,14 @@ A Python-based object detection system using OpenCV. This project uses pre-train
 
 3. **Download model files**
    - For **YOLO**:
-     - `yolov3.cfg`
-     - `yolov3.weights`
+     - `yolov4.cfg`
+   ```bash
+   https://github.com/AlexeyAB/darknet/raw/master/cfg/yolov4.cfg
+   ```
+     - `yolov4.weights`
+   ```bash
+   https://objects.githubusercontent.com/github-production-release-asset-2e65be/75388965/4b8a4e00-b2d7-11eb-900f-678196af5945?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250412%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250412T071350Z&X-Amz-Expires=300&X-Amz-Signature=186a2ec99150b10c2a21a13d8c3e448682394512689391c8bba39e7ac7e5f3ea&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dyolov4.weights&response-content-type=application%2Foctet-stream
+   ```
      - `coco.names`
    - For **MobileNet SSD**:
      - `deploy.prototxt`
