@@ -60,7 +60,8 @@ python detect.py --model yolov3 --source path/to/image.jpg
 
 ## 📸 Sample Output
 
-> *(Include screenshots of detection results with bounding boxes)*
+> ![image](https://github.com/user-attachments/assets/fdb1bbb2-f7e4-4f7e-bc4e-3b9b45512284)
+
 
 ## ⚙️ Command-Line Arguments
 
